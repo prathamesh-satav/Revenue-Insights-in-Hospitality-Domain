@@ -1,4 +1,4 @@
-🏨 Revenue Insights in the Hospitality Domain
+**🏨 Revenue Insights in the Hospitality Domain**
 This Power BI project provides a comprehensive analysis of revenue data within the hospitality industry. By leveraging interactive dashboards and DAX calculations, it offers valuable insights into booking patterns, revenue streams, and occupancy trends to aid in strategic decision-making.
 
 📈 Project Overview
